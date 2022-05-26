@@ -1,0 +1,15 @@
+.box{
+	background-color: red;
+	height: 100px;
+	margin-bottom: 5px;
+}
+.bg_color{
+	background-color: green;
+	margin-bottom: 5px;
+}
+.box2{
+	height: 300px;
+}
+.h_custom{
+	height: 400px;
+}
